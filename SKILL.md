@@ -1,9 +1,4 @@
 ---
-
-## 📄 **文件5：SKILL.md**
-
-```markdown
----
 name: news-tracer
 description: News source tracing and credibility verification tool. Use when you need to verify news authenticity, trace the earliest sources, generate timelines, or cross-verify multiple media reports before making trading decisions.
 ---
